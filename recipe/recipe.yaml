@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.2"
+  version: "0.2.0"
 
 package:
   name: confingy
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/confingy/confingy-${{ version }}.tar.gz
-  sha256: a99479d51d287119e20ac5ead872db51e1d275c381d1a22eb799086fd73a5133
+  sha256: f865953a652947aebee0348c71ae270db38377bd53be86b05042414a55b7eb2c
 
 build:
   number: 0
